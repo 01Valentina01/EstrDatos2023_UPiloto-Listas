@@ -56,7 +56,7 @@ public class interfazApp {
        
        Scanner sc = new Scanner(System.in);
        
-       System.out.print("Ingrese el tamaño de la lista");
+       System.out.print("Ingrese el tamano de la lista");
        int tamañoLista = sc.nextInt();
        sc.nextLine();
        
