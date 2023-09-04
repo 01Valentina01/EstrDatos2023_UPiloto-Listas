@@ -47,7 +47,7 @@ public class PersonaList {
               
           }
           
-          //Insertar ordenadamente
+        
           
         
     
@@ -79,7 +79,7 @@ public class PersonaList {
           return false;
           }
           
-         //eliminar un dato en particular
+         
          
           
           
